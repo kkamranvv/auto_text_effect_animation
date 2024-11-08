@@ -1,4 +1,4 @@
-Auto Text Effect Animation
+#Auto Text Effect Animation
 This project demonstrates a text animation effect that automatically types out and cycles through an array of career titles, such as "Frontend Developer," "Web Developer," "Freelancer," and "Cook." Each title appears character-by-character, creating a dynamic text reveal effect.
 
 Features:
@@ -11,5 +11,5 @@ HTML
 CSS (with Google Fonts integration)
 JavaScript
 
-LIVE DEMO!
+#LIVE DEMO!
 https://kkamranvv.github.io/auto_text_effect_animation/
