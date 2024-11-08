@@ -10,3 +10,6 @@ Technologies Used:
 HTML
 CSS (with Google Fonts integration)
 JavaScript
+
+LIVE DEMO!
+https://kkamranvv.github.io/auto_text_effect_animation/
