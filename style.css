@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Old+Uyghur&display=swap");
+
+body {
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+}
+
+h1 {
+  font-family: "Noto Serif Old Uyghur", serif;
+  font-weight: 400;
+  font-style: normal;
+}
